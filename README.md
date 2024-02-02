@@ -1,6 +1,3 @@
-Certainly! Here is the entire content of the README with markdown:
-
-```markdown
 # JavaScript Web Scraping Repository
 
 ## Overview
@@ -29,7 +26,6 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Ermias-TekileMarkos/web-scraping.git
-```
 
 Navigate to the project directory:
 
@@ -91,4 +87,5 @@ Please ensure your code follows the existing coding style and includes appropria
 
 Happy scraping!
 ```
+
 
